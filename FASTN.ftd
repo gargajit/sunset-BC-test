@@ -7,6 +7,7 @@ favicon: /-/gargajit.github.io/sunset-bc-test/favicon.ico
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/roboto-typography
 -- fastn.dependency: fastn-community.github.io/business-card
+-- fastn.dependency: fastn-community.github.io/sunset-business-card
 
 -- fastn.auto-import: gargajit.github.io/sunset-bc-test/FASTN/ds
 -- fastn.auto-import: gargajit.github.io/sunset-bc-test/assets
