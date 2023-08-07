@@ -2,6 +2,8 @@
 -- import: fastn-community.github.io/sunset-business-card
 
 -- ds.page: My Business Card
+document-title: Sunset Business Card using fastn
+document-description: fastn allows you to create any UI you can think of.
 
 -- business-card.details: Ajit Garg
 company-name: John Doe Pvt. Ltd.
