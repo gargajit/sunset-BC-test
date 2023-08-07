@@ -5,7 +5,7 @@
 document-title: Sunset Business Card using fastn
 document-description: fastn allows you to create any UI you can think of.
 
-/-- sunset-business-card.details: Ajit Garg
+/-- business-card.details: Ajit Garg
 company-name: John Doe Pvt. Ltd.
 title: Chief Executive Officer
 phone-no: +91 12345 99999
@@ -17,7 +17,7 @@ website: www.johndoe.com
 
 
 
--- business-card.details: Ajit Garg
+-- sunset-business-card.details: Ajit Garg
 company-name: John Doe Pvt. Ltd.
 title: Chief Executive Officer
 phone-no: +91 12345 99999
